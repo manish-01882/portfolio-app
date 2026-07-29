@@ -3,7 +3,7 @@
 
 ![Portfolio Screenshot](public/projects/portfolio-screenshot.png)
 
-A modern, interactive **[developer portfolio](https://next-portfolio-stark.vercel.app)** built with **Next.js 15**, **Prisma**, and **shadcn/ui**
+A modern, interactive **[developer portfolio](https://portfolio-app-weld-rho.vercel.app/))** built with **Next.js 15**, **Prisma**, and **shadcn/ui**
 
 > This portfolio showcases my work, my projects, and my personality
 

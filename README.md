@@ -40,7 +40,7 @@ A modern, interactive **[developer portfolio](https://portfolio-app-weld-rho.ver
 
 ### Clone the repository
 ```bash
-git clone https://github.com/NotStark/portfolio.git
+git clone https://github.com/manish-01882/portfolio-app.git
 cd portfolio
 ````
 
@@ -69,19 +69,6 @@ npm run dev
 > Your portfolio should now be live at **[http://localhost:3000](http://localhost:3000)** 🎉
 
 ---
-
-
-## Connect With Me
-
-| Platform     | Link                                                             |
-| ------------ | ---------------------------------------------------------------- |
-| 💬 Telegram  | [https://t.me/EternalVortex](https://t.me/EternalVortex)      
-| 🐦 Twitter   | [https://twitter.com/NotStark101](https://twitter.com/NotStark101) |         |
-| 💻 Discord   | `_notstark`                                            |
-              
----
-
-
 
 ## Star History
 **⭐ If you liked this project, give it a star — it helps a lot!**

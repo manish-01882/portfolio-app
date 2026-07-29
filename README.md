@@ -1,5 +1,5 @@
 
-# Stark's Portfolio
+# Manish's Portfolio
 
 ![Portfolio Screenshot](public/projects/portfolio-screenshot.png)
 
